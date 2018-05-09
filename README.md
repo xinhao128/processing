@@ -1,6 +1,6 @@
 # processing
 These are the coolest projects in my perspective that I have learned in high school.
-##DNA
+## DNA
 Bonding animation
-##WordCloud
+## WordCloud
 Texts randomly come together to form a pattern.
